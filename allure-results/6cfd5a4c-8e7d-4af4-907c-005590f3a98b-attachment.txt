@@ -1,0 +1,2 @@
+JS Confirm Text: I am a JS Confirm
+Result after dismissing JS Confirm: You clicked: Cancel

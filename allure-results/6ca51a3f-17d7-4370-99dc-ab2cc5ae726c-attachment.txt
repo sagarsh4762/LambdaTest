@@ -1,0 +1,2 @@
+JS Alert Text: I am a JS Alert
+Result after JS Alert: You successfully clicked an alert

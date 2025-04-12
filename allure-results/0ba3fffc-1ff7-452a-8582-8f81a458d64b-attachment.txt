@@ -1,0 +1,2 @@
+JS Confirm Text: I am a JS Confirm
+Result after accepting JS Confirm: You clicked: Ok

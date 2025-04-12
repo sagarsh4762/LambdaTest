@@ -1,0 +1,2 @@
+JS Prompt Text: I am a JS prompt
+Result after JS Prompt: You entered: Test Input
